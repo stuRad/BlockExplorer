@@ -9,4 +9,13 @@ Since I opted to not build a front end, to run my functions you need to use comm
 
 Instructions will print out after each function call
 
-Exported functions: getCurrentBlock, getAccountBalance(address), outputLatestBlockTransactions, outputBlockTotalETH(blockHash);
+
+
+Exported functions: 
+  >getCurrentBlock
+  >
+  >getAccountBalance(address)
+  >
+  >outputLatestBlockTransactions
+  >
+  >outputBlockTotalETH(blockHash)
