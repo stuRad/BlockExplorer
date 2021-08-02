@@ -3,7 +3,7 @@ const { Wallet, utils, providers: { JsonRpcProvider } } = require("ethers");
 const methodsMessage = `
 
 
-    Exported functions: getCurrentBlock, getAccountBalance(address), outputLatestBlockTransactions, outputBlockTotalETH(blockHash);
+    Exported functions: getCurrentBlock, getAccountBalance(address), outputLatestBlockTransactions, outputBlockTotalETH(blockHash)
     How to run a function: npm run someFunc param
 `
 const PROVIDERS = {
