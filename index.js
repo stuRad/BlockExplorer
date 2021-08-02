@@ -1,5 +1,3 @@
-const axios = require('axios');
-
 const { Wallet, utils, providers: { JsonRpcProvider } } = require("ethers");
 
 const methodsMessage = `
