@@ -1,0 +1,19 @@
+{
+  "name": "blockexplorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "getCurrentBlock": "run-func index.js getCurrentBlock",
+    "outputLatestBlockTransactions": "run-func index.js outputLatestBlockTransactions",
+    "getAccountBalance": "run-func index.js getAccountBalance",
+    "outputBlockTotalETH": "run-func index.js outputBlockTotalETH"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "ethers": "^5.4.3",
+    "run-func": "^1.0.5"
+  }
+}
